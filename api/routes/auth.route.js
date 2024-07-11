@@ -1,5 +1,5 @@
 import expres from "express";
-import { signin, signup } from "../controllers/auth.controller.js";
+import { google, signin, signup } from "../controllers/auth.controller.js";
 
 const router = expres.Router();
 
