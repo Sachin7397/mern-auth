@@ -8,3 +8,7 @@ This application is intended as a starting point for building full-stack web app
 Project is live on https://mern-auth-2ha3.onrender.com/
 1)Create account with any of method with signup form or with google
 2)Login account with email and password 
+3)Update account details
+4)Delete account
+5)Sign out
+6)Redirection to Home,About and Profile pages
