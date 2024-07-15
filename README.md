@@ -2,7 +2,7 @@ This is a full-stack web application built with the MERN (MongoDB, Express, Reac
 
 The front-end of the application is built with React and uses React Router for client-side routing. The back-end is built with Node.js and Express, and uses MongoDB as the database. Authentication is implemented using JSON Web Tokens (JWT).
 
-This application is intended as a starting point for building full-stack web applications with authentication using the MERN stack. Feel free to use it as a template for your own projects!
+This application is intended as a starting point for building full-stack web applications with authentication using the MERN stack.
 
 
 Project is live on https://mern-auth-2ha3.onrender.com/
